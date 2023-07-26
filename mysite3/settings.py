@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-i=((-z#fjag8(1-ziz&lk^+wc=kyj=tyru8*8tbwo*v8!m)x)8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['129.213.164.166']#esta es la IP del servidor en cloud.oracle.com
 
 
 # Application definition
